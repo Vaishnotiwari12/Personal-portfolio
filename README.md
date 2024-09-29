@@ -19,14 +19,5 @@ Projects Section: Expand the projects section with live project demos and GitHub
 🚀 How to Use
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/resume-website.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd resume-website
-Open the index.html file in your preferred browser to view the resume website locally.
-
+https://github.com/Vaishnotiwari12/Personal-portfolio.git
 
